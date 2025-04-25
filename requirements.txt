@@ -1,0 +1,45 @@
+# Core data manipulation libraries
+pandas
+numpy
+
+# Visualization libraries
+matplotlib
+seaborn
+plotly
+
+# Machine learning frameworks
+scikit-learn
+xgboost
+lightgbm
+catboost
+imbalanced-learn
+
+# Model explanation tools
+shap
+eli5
+pdpbox
+
+# Statistical analysis
+statsmodels
+scipy
+
+# Missing data visualization
+missingno
+
+# Fairness and bias metrics
+aequitas
+
+# Notebook environment
+jupyter
+ipykernel
+ipywidgets
+
+# Data format handling
+openpyxl
+xlrd
+
+# Progress bars for long-running operations
+tqdm
+
+# Environment management (recommended)
+python-dotenv
